@@ -1,0 +1,36 @@
+body{
+    width: 400px;
+    background-color: darkgreen;
+}
+button.number{
+    background-color: yellow;
+    color: black;
+    border: 1px solid;
+    padding: 2px;
+    border-radius: 3px;
+    width: 32%;
+}
+button.operator{
+    background-color: yellow;
+    color: black;
+    border: 1px solid;
+    padding: 2px;
+    border-radius: 3px;
+    width: 19%;
+}
+button:hover{
+    background-color: blue;
+    color: white;
+}
+#submit{
+    width: 100%;
+    background-color: yellow;
+    color: black;
+    border: 1px solid;
+    padding: 2px;
+    border-radius: 3px;
+}
+#textField{
+    background-color: darkgreen;
+    color: white;
+}
