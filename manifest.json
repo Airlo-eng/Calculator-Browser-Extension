@@ -2,6 +2,11 @@
     "manifest_version": 2,
     "name" : "Calculator",
     "version": "1.0.0",
+    "icons" : {
+        "128" : "img/logo.png",
+        "48" : "img/logo.png",
+        "16" : "img/logo.png"
+    },
     "content_scripts": [
         {
             "matches": ["<all_urls>"],

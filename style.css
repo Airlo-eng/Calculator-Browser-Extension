@@ -4,7 +4,7 @@ body{
 }
 button.number{
     background-color: yellow;
-    color: black;
+    color: darkgreen;
     border: 1px solid;
     padding: 2px;
     border-radius: 3px;
@@ -12,7 +12,7 @@ button.number{
 }
 button.operator{
     background-color: yellow;
-    color: black;
+    color: darkgreen;
     border: 1px solid;
     padding: 2px;
     border-radius: 3px;
@@ -22,15 +22,18 @@ button:hover{
     background-color: blue;
     color: white;
 }
+div{
+    text-align: center;
+}
 #submit{
     width: 100%;
     background-color: yellow;
-    color: black;
+    color: darkgreen;
     border: 1px solid;
     padding: 2px;
     border-radius: 3px;
 }
 #textField{
-    background-color: darkgreen;
-    color: white;
+    background-color: yellow;
+    color: darkgreen;
 }
